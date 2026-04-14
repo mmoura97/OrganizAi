@@ -23,7 +23,7 @@
 ## 📱 Sobre o Projeto
 
 <p align="center">
-  <img src="https://i.ibb.co/4YJYWj1/Organiz-Ai.png" alt="OrganizAi">
+  <img src="Imagens/Icone/organizai_icon.png" alt="OrganizAi" width="200">
 </p>
 
 O **OrganizAi** é um aplicativo desenvolvido para ajudar usuários a **organizar suas finanças pessoais de forma simples e intuitiva**, indo além do controle financeiro tradicional.
